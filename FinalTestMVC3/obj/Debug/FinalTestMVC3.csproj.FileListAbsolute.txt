@@ -1,0 +1,7 @@
+D:\SLProjects\FinalTestMVC3\FinalTestMVC3\bin\FinalTestMVC3.dll
+D:\SLProjects\FinalTestMVC3\FinalTestMVC3\bin\FinalTestMVC3.pdb
+D:\SLProjects\FinalTestMVC3\FinalTestMVC3\bin\EntityFramework.dll
+D:\SLProjects\FinalTestMVC3\FinalTestMVC3\bin\EntityFramework.xml
+D:\SLProjects\FinalTestMVC3\FinalTestMVC3\obj\Debug\ResolveAssemblyReference.cache
+D:\SLProjects\FinalTestMVC3\FinalTestMVC3\obj\Debug\FinalTestMVC3.dll
+D:\SLProjects\FinalTestMVC3\FinalTestMVC3\obj\Debug\FinalTestMVC3.pdb
